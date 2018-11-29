@@ -12,7 +12,7 @@ handed maintenance of all of his packages to to this bidi-tex GitHub Group
 (which initially consisted of members of the LaTeX3 team).
 
 
-Note that François also maintains xe on GitHub
+Note that François also maintains arabxetex on GitHub
 
 https://github.com/fc7/arabxetex
 
