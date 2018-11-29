@@ -7,13 +7,20 @@ An ArabTeX-like interface for XeLaTeX
 
 
 ## Maintenance
-Vafa Khalighi, who was maintaining arabxetex, handed maintenance to this bidi-tex
-GitHub Group (which initially consists of members of the LaTeX3 team).
+Vafa Khalighi, who was maintaining xepersian with François Charette,
+handed maintenance of all of his packages to to this bidi-tex GitHub Group
+(which initially consisted of members of the LaTeX3 team).
 
-Issues may be entered here.
 
-If it proves necessary to update the files, this repository will
-be filled with files retrieved from CTAN:
+Note that François also maintains xe on GitHub
+
+https://github.com/fc7/arabxetex
+
+
+So possibly this repository will be deleted and issues should be
+raised there, the details are still to be arranged.
+
+The current files my be retrieved from CTAN:
 
 http://mirrors.ctan.org/macros/xetex/latex/arabxetex.zip
 
